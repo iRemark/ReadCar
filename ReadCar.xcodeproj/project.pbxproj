@@ -14,7 +14,6 @@
 		9D7FCC4721DF400E0014271C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7FCC4621DF400E0014271C /* main.m */; };
 		9D7FCC5221DF400F0014271C /* ReadCarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7FCC5121DF400F0014271C /* ReadCarTests.m */; };
 		9D7FCC5D21DF400F0014271C /* ReadCarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7FCC5C21DF400F0014271C /* ReadCarUITests.m */; };
-		9D7FCC6C21DF40200014271C /* CarTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7FCC6B21DF40200014271C /* CarTool.m */; };
 		9D7FCC7121DF4EBB0014271C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D7FCC7021DF4EBB0014271C /* Foundation.framework */; };
 		9D7FCC7321DF4F780014271C /* CoreUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D7FCC7221DF4F770014271C /* CoreUI.framework */; };
 /* End PBXBuildFile section */
@@ -53,8 +52,6 @@
 		9D7FCC5821DF400F0014271C /* ReadCarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReadCarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D7FCC5C21DF400F0014271C /* ReadCarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReadCarUITests.m; sourceTree = "<group>"; };
 		9D7FCC5E21DF400F0014271C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9D7FCC6A21DF40200014271C /* CarTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarTool.h; sourceTree = "<group>"; };
-		9D7FCC6B21DF40200014271C /* CarTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarTool.m; sourceTree = "<group>"; };
 		9D7FCC6D21DF40BB0014271C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9D7FCC7021DF4EBB0014271C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9D7FCC7221DF4F770014271C /* CoreUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreUI.framework; path = ../../../../../../System/Library/PrivateFrameworks/CoreUI.framework; sourceTree = "<group>"; };
@@ -116,8 +113,6 @@
 				9D7FCC3B21DF400E0014271C /* AppDelegate.m */,
 				9D7FCC3D21DF400E0014271C /* ViewController.h */,
 				9D7FCC3E21DF400E0014271C /* ViewController.m */,
-				9D7FCC6A21DF40200014271C /* CarTool.h */,
-				9D7FCC6B21DF40200014271C /* CarTool.m */,
 				9D7FCC4021DF400E0014271C /* Assets.xcassets */,
 				9D7FCC4221DF400E0014271C /* Main.storyboard */,
 				9D7FCC4521DF400E0014271C /* Info.plist */,
@@ -283,7 +278,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D7FCC6C21DF40200014271C /* CarTool.m in Sources */,
 				9D7FCC3F21DF400E0014271C /* ViewController.m in Sources */,
 				9D7FCC4721DF400E0014271C /* main.m in Sources */,
 				9D7FCC3C21DF400E0014271C /* AppDelegate.m in Sources */,
