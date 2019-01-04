@@ -10,5 +10,5 @@
 ## 解析 Assets.car 文件
 [原作者核心代码仓库地址](https://github.com/steventroughtonsmith/cartool)
 
-[dmg下载地址](https://pan.baidu.com/s/1imgY9DiH0CR5tt1rfef6rg)
+[dmg下载地址](https://pan.baidu.com/s/1Ztt-etqzoq2Ihsr8DsaQeA)
 
